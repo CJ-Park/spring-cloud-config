@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret-key: userTokenSecretKeyasdlnfl32nflnalsdnfkjabkg4weamain_prod
+  secret-key: userTokenSecretKeyasdlnfl32nflnalsdnfkjabkg4weamain/prod
 
 gateway:
   ip: 127.0.0.1
