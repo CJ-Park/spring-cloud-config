@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400000
-  secret: userTokenSecretKeyasdlnfl32nflnalsdnfkjabkg4wea#$main
+  expiration_time: 186400000
+  secret: userTokenSecretKeyasdlnfl32nflnalsdnfkjabkg4wea#$ababc
 
 gateway:
   ip: 127.0.0.1
