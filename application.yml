@@ -3,4 +3,4 @@ token:
   secret-key: userTokenSecretKeyasdlnfl32nflnalsdnfkjabkg4weamain/native/application/changeV2
 
 gateway:
-  ip: 127.0.0.1
+  ip: 172.18.0.5
